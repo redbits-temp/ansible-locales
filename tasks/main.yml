@@ -91,6 +91,7 @@
     owner: root
     group: root
     mode: 0644
+  when: locales_default_enabled
   tags:
     - configuration
     - locales
