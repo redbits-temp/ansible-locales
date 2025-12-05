@@ -12,3 +12,5 @@ locales_absent: []
 locales_language_packs_absent: []
 
 locales_default: {}
+
+locales_default_enabled: true
